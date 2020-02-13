@@ -1,2 +1,2 @@
 # CRED
-Convolutionl Recurent Earthquake Detector
+## Convolutionl Recurent Earthquake Detector
