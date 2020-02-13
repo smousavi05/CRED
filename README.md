@@ -35,7 +35,8 @@
 
 ------------------------------------------- 
 
-### Short Description
+### Short Description:
+
 Earthquake signal detection is at the core of observational seismology. A good detection algorithm should be sensitive to small and weak events with a variety of waveform shapes, robust to background noise and non-earthquake signals, and efficient for processing large data volumes. Here, we introduce the Cnn-Rnn Earthquake Detector (CRED), a detector based on deep neural networks. CRED uses a combination of convolutional layers and bi-directional long-short-term memory units in a residual structure. It learns the time-frequency characteristics of the dominant phases in an earthquake signal from three component data recorded on individual stations. 
 
 ![Network used for the discrimination](FIG_5.png)
