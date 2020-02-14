@@ -29,8 +29,10 @@
 
 ### Paper: 
 
+Link 1:
 (https://www.nature.com/articles/s41598-019-45748-1)
 
+Link 2:
 (https://www.researchgate.net/publication/334490465_CRED_A_Deep_Residual_Network_of_Convolutional_and_Recurrent_Units_for_Earthquake_Signal_Detection)
 
 ------------------------------------------- 
