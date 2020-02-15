@@ -9,7 +9,7 @@
 ### Installation:
 
    `pip install -r requirements.txt`
-      
+The code does not have predition mode yet. 
 ------------------------------------------- 
      
 ### BibTeX:
