@@ -1,4 +1,4 @@
-# CRED
+# CRED. 
 ## Convolutionl Recurent Earthquake Detector                   
 
 ### This repository contains the codes to train and test the network proposed in:   
