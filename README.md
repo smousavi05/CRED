@@ -1,6 +1,6 @@
 # CRED   
 ## Convolutionl Recurent Earthquake Detector                              
-### This repository contains the codes to train and test the network proposed in:           
+### This repository contains the codes to train and test the network proposed in:             
 
 `Mousavi, S. M., Zhu, W., Sheng, Y., & Beroza, G. C. (2019). CRED: A deep residual network of convolutional and recurrent units for earthquake signal detection. Scientific reports, 9(1), 1-14.`
       
