@@ -1,5 +1,12 @@
 # CRED   
-## Convolutionl Recurent Earthquake Detector                                   
+## Convolutionl Recurent Earthquake Detector
+![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/CRED?style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/smousavi05/CRED?style=social)
+![GitHub followers](https://img.shields.io/github/followers/smousavi05?style=social)
+![GitHub forks](https://img.shields.io/github/forks/smousavi05/CRED?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/CRED?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
+
 ### This repository contains the codes to train and test the network proposed in:             
 
 `Mousavi, S. M., Zhu, W., Sheng, Y., & Beroza, G. C. (2019). CRED: A deep residual network of convolutional and recurrent units for earthquake signal detection. Scientific reports, 9(1), 1-14.`
