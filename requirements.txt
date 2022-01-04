@@ -1,11 +1,11 @@
 tensorflow-gpu
-Eras
+Keras
 matplotlib
 scipy
 pandas
 tqdm
 Obspy
 H5py
-cudatoolkit=9.0 
+cudatoolkit==9.0 
 numba
 
